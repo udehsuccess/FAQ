@@ -36,7 +36,7 @@ body{
 }
 
 .container .accordion-container .accordion.active .accordion-heading{
-    background: crimson;
+    background: rgb(20, 220, 70);
 }
 .container .accordion-container .accordion.active .accordion-heading h3{
     color: #fff;
